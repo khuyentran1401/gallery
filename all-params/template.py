@@ -2,7 +2,7 @@
 import datapane as dp
 import json
 
-json_string = json.dumps(parameters, indent=2)
+json_string = json.dumps(params, indent=2)
 
 md = dp.Markdown(f"""
     # Script parameters
