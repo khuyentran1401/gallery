@@ -1,0 +1,12 @@
+name: trends_analysis
+script: trends.ipynb
+title: Google Trend Analysis
+parameters: 
+  - name: query
+    description: The google query to analyse
+    type: string
+    required: True
+
+requirements:
+  - pytrends
+  - vega_datasets
