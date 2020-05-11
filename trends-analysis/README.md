@@ -9,17 +9,17 @@ It also pulls the US geographic information from Google, and uses this to plot w
 
 <img width="793" alt="image" src="https://user-images.githubusercontent.com/3541695/81617123-c119c080-93dc-11ea-9f77-22dcb13dc619.png">
 
-##Usage
+## Usage
 Run the Jupyter Notebook to generate reports using `datapane`, or deploy it to Datapane.com if you want to let other people run it through their browser (make sure you're logged in first).
 
 ```
 ~/> datapane script deploy
 ```
 
-##More information
+## More information
 Check the datapane.yaml for input parameter descriptions.
 
-##Requirements
+## Requirements
 
 - pandas
 - altair

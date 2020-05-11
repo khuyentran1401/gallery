@@ -7,17 +7,17 @@ Depending on input parameters, it will either plot the actual price in USD, or t
 
 It also uses yfinance to pull the data, and Altair for plotting.
 
-##Usage
+## Usage
 Run the Jupyter Notebook to generate reports using `datapane`, or deploy it to Datapane.com if you want to let other people run it through their browser (make sure you're logged in first).
 
 ```
 ~/> datapane script deploy
 ```
 
-##More information
+## More information
 Check the datapane.yaml for input parameter descriptions.
 
-##Requirements
+## Requirements
 
 - pandas
 - altair

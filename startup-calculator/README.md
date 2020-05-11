@@ -14,17 +14,17 @@ It also uses Altair to plot [Default alive / Default dead](http://paulgraham.com
 
 >Warning: because calculating any kind of growth rate won't work if the starting revenue is 0, it uses 100 as a minimum start, which may throw off your calculations.
 
-##Usage
+## Usage
 Run the Jupyter Notebook to generate reports using `datapane`, or deploy it to Datapane.com if you want to let other people run it through their browser (make sure you're logged in first).
 
 ```
 ~/> datapane script deploy
 ```
 
-##More information
+## More information
 Check the datapane.yaml for input parameter descriptions.
 
-##Requirements
+## Requirements
 
 - pandas
 - altair
