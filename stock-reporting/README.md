@@ -1,7 +1,25 @@
-# survey_analysis
+# Stock Reporting
+This is a datapane-compatible notebook which takes a list of input stocks and plots the price from a period until today.
 
-_TODO_ - describe script
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/3541695/81616760-012c7380-93dc-11ea-8e7a-13ce12de50ad.png">
 
-## Config
+Depending on input parameters, it will either plot the actual price in USD, or the [z-score](https://en.wikipedia.org/wiki/Standard_score), so you can plot stocks with different prices on the same terms.
 
-This script can be configured using the following parameters...
+It also uses yfinance to pull the data, and Altair for plotting.
+
+##Usage
+Run the Jupyter Notebook to generate reports using `datapane`, or deploy it to Datapane.com if you want to let other people run it through their browser (make sure you're logged in first).
+
+```
+~/> datapane script deploy
+```
+
+##More information
+Check the datapane.yaml for input parameter descriptions.
+
+##Requirements
+
+- pandas
+- altair
+- yfinance
+- datapane
