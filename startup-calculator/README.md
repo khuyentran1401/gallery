@@ -1,5 +1,5 @@
 [![Run on Datapane !](https://img.shields.io/badge/Datapane-Run%20script-1abc9c.svg)](https://datapane.com/scripts/MA1pRkK/)
-[![View on Datapane !](https://img.shields.io/badge/Datapane-View%20sample%20report-ff69b4.svg)](https://datapane.com/report/dA61vkQ/)
+[![View on Datapane !](https://img.shields.io/badge/Datapane-View%20sample%20report-ff69b4.svg)](https://datapane.com/reports/dA61vkQ/)
 
 # Startup calculator
 This script forecasts your future finances based on current cash position, growth rate, revenue, and costs.
@@ -29,7 +29,7 @@ Run the Jupyter Notebook to generate reports using `datapane`, or deploy it to D
 ```
 
 ## More information
-Check the datapane.yaml for input parameter descriptions.
+Check the datapane.yaml for full input parameter descriptions.
 
 ## Requirements
 
