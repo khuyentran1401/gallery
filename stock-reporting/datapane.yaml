@@ -1,7 +1,6 @@
 name: stock_analysis
 script: stocks.ipynb
-title: Analyse stock prices over time
-
+repo: https://github.com/datapane/gallery/tree/master/stock-reporting
 # Script parameters
 parameters: 
   - name: tickers
