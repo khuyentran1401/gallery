@@ -1,5 +1,5 @@
 [![Run on Datapane !](https://img.shields.io/badge/Datapane-Run%20script-1abc9c.svg)](https://datapane.com/leo/scripts/stock_analysis/)
-[![View on Datapane !](https://img.shields.io/badge/Datapane-View%20sample%20report-ff69b4.svg)](https://datapane.com/leo/reports/stock_report_a9407a67/))
+[![View on Datapane !](https://img.shields.io/badge/Datapane-View%20sample%20report-ff69b4.svg)](https://datapane.com/leo/reports/stock_report_a9407a67/)
 
 # Stock Reporting
 This is a datapane-compatible notebook which takes a list of input stocks and plots the price from a period until today.
