@@ -18,7 +18,7 @@ It also uses Altair to plot [Default alive / Default dead](http://paulgraham.com
 >Warning: because calculating any kind of growth rate won't work if the starting revenue is 0, it uses 100 as a minimum start, which may throw off your calculations.
 
 ## Parameters
-[<img width="1054" alt="image" src="https://user-images.githubusercontent.com/3541695/82499853-56f2d100-9aea-11ea-8f51-5970a02dc1d9.png">](https://datapane.com/scripts/MA1pRkK/)
+[<img width="1054" alt="image" src="https://user-images.githubusercontent.com/3541695/82499853-56f2d100-9aea-11ea-8f51-5970a02dc1d9.png">](https://datapane.com/leo/scripts/startup_calculator/)
 
 
 ## Usage
